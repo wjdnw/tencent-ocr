@@ -1,0 +1,16 @@
+{
+    "name": "wjdnw/tencent-ocr",
+    "description": "log",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ryp",
+            "email": "abc@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
+
+// php artisan make:provider ScopeOfBusinessServiceProvider
